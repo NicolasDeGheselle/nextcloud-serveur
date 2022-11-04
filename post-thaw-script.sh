@@ -1,0 +1,1 @@
+rm nextcloud-sqlbkp.bak
